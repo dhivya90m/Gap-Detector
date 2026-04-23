@@ -660,3 +660,17 @@ Notion's API returns HTTP 400 if you pass `{"select": {"name": ""}}` for a Selec
 
 **Why `gemini-2.5-flash-lite` instead of a heavier model?**
 All three Gemini calls (classify, resolve, edit) are JSON-structured and operate on short, well-scoped prompts. Flash Lite provides sub-second latency and sufficient accuracy for policy-domain text, keeping per-message costs minimal for a 24/7 Slack bot.
+
+---
+Working Screenshots:
+
+<img width="2338" height="957" alt="image" src="https://github.com/user-attachments/assets/944b0400-6097-4e84-9868-d857c03d2f86" />
+
+<img width="2287" height="869" alt="image" src="https://github.com/user-attachments/assets/2388edf9-a261-4ec4-9ecd-9db0ecca9f8f" />
+
+<img width="2049" height="882" alt="image" src="https://github.com/user-attachments/assets/0638af14-2825-4eb0-bd7d-338b0b560301" />
+
+<img width="1113" height="605" alt="image" src="https://github.com/user-attachments/assets/00985334-9ecd-473f-87a3-c0022717ba4a" />
+
+<img width="1128" height="584" alt="image" src="https://github.com/user-attachments/assets/d5101e7a-d89c-4822-a052-0ccec5a01450" />
+

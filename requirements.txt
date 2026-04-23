@@ -1,0 +1,13 @@
+# Core audit runner
+google-genai>=1.0.0
+
+# Slack integration
+slack-sdk>=3.27.0
+slack-bolt>=1.18.0
+
+# Google Sheets integration
+gspread>=6.1.0
+google-auth>=2.29.0
+
+# Notion integration — v3.x removed databases.query(); n.request() used instead
+notion-client>=3.0.0

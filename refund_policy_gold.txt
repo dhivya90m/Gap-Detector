@@ -1,0 +1,7 @@
+RULE 1: Refund Threshold ($150)
+All refund requests exceeding $150.00 require formal Manager approval. Agents are prohibited from bypassing this limit for any reason, including customer churn risk. Senior Agents are permitted to issue refunds up to $150.00.
+RULE 2: Driver Safety & Background Checks
+No driver may be activated on the platform until a Background Check status is marked as 'Complete'. Provisional activation is strictly forbidden. Expired registration documents during driver onboarding will be granted a 7-day grace period.
+RULE 3: Credential Integrity & 2FA
+Two-Factor Authentication (2FA) is mandatory for all account resets. Under no circumstances should an agent bypass the SMS/Email verification step.
+Policy Update: 2026-04-23 (Approved by @dhivya.marimuthu1208)
